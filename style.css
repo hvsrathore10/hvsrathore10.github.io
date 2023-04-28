@@ -186,6 +186,7 @@ ul {
     width: 16vw;
     height: 16vw;
     border-radius: 40% 0px;
+    object-fit: fill;
     /* border-style: solid;
         border-width: 10px;
         border-color: white; */
