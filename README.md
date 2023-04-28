@@ -1,4 +1,4 @@
-# My Portfolio Website [Website](https://hvsrathore10.github.io/)
+# My Portfolio Website [website](https://hvsrathore10.github.io/)
 
 Welcome to my portfolio website! This website showcases my skills, experience, and projects in web development. The website is built using HTML, CSS, and JavaScript, and is hosted on **GitHub Pages**.
 
@@ -14,7 +14,7 @@ Welcome to my portfolio website! This website showcases my skills, experience, a
 * CSS
 - JavaScript
 * Bootstrap
-* GitHub Pages
+- GitHub Pages
 
 ## How to Contribute
 If you have any feedback or suggestions for my portfolio website, I'd love to hear from you! You can submit feedback or review for this website on contact form.
