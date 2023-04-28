@@ -73,26 +73,17 @@ body {
 
 }
 
-/* Home */
-/* Home */
-/* Home */
-/* Home */
-/* Home */
-/* Home */
-/* Home */
-/* Home */
+/* Home *//* Home *//* Home */
 #home {
     width: 100%;
     height: 100vh;
     background-color: #0a0a0a;
 }
-
 .hello {
     text-align: center;
     padding-top: 30vh;
     font-family: 'Lucida Sans', sans-serif;
 }
-
 .iam {
     color: white;
     font-weight: bold;
@@ -100,7 +91,6 @@ body {
     text-align: right;
     font-family: 'LucidaSans', sans-serif;
 }
-
 .programmer {
     color: white;
     font-weight: bold;
@@ -108,7 +98,6 @@ body {
     text-align: left;
     font-family: 'alternity', sans-serif;
 }
-
 .name {
     color: white;
     text-align: center;
@@ -116,7 +105,6 @@ body {
     font-family: 'Courier New', Courier, monospace;
 
 }
-
 .exploreButton {
     border-style: solid;
     position: absolute;
@@ -127,7 +115,6 @@ body {
     font-family: 'LucidaSans', sans-serif;
 
 }
-
 a:hover {
     border-color: #1DB954;
     color: white;
@@ -146,56 +133,41 @@ ul {
     font-size: 4vw;
 
 }
-
 .intro-social li {
     display: inline-block;
     margin: 0px 1vw;
 
 }
-
 .intro-social a .fa {
     font-size: 3vw;
     color: white;
 }
-
 .intro-social a:hover .fa-github {
     color: #1DB954;
 }
-
 .intro-social a:hover .fa-facebook {
     color: #1DB954;
 }
-
 .intro-social a:hover .fa-linkedin {
     color: #1DB954;
 }
-
 .intro-social a:hover .fa-twitter {
     color: #1DB954;
 }
-
 .intro-social a:hover .fa-instagram {
     color: #1DB954;
 }
-
 .intro-social a:hover .fa-quora {
     color: #1DB954;
 }
 
 
-/* about */
-/* about */
-/* about */
-/* about */
-/* about */
-/* about */
-/* about */
+/* about *//* about *//* about */
 #about {
     width: 100%;
     /* height: 100vh; */
     background-color: white;
 }
-
 .About {
     text-align: center;
     padding-top: 15vh;
@@ -203,7 +175,6 @@ ul {
     font-family: 'LucidaSans', sans-serif;
     font-weight: 900;
 }
-
 .introduce {
     text-align: center;
     padding-top: 1vh;
@@ -211,7 +182,6 @@ ul {
     font-weight: 900;
     font-family: 'LucidaSans', sans-serif;
 }
-
 .profileImg {
     width: 16vw;
     height: 16vw;
@@ -220,7 +190,6 @@ ul {
         border-width: 10px;
         border-color: white; */
 }
-
 .introduction {
     /* padding-left: 3%; */
     font-size: 25px;
@@ -228,24 +197,19 @@ ul {
     text-align: left;
     font-weight: 300;
 }
-
 .introduction a:hover {
     color: grey;
     text-decoration: none;
 }
-
 .grey {
     color: grey;
 }
-
 .PSpadding {
     padding-top: 3vh;
 }
-
 p {
     font-size: 17px;
 }
-
 .PS {
     font-family: 'Lucida Sans', sans-serif;
     font-size: 32px;
@@ -265,11 +229,9 @@ p {
 .profileItems {
     font-size: 18px;
 }
-
 .PSpadding a {
     font-size: 17px;
 }
-
 .PSpadding a:hover {
     color: #1DB954;
     font-size: 17px;
@@ -303,7 +265,6 @@ p {
     margin-top: 3vh;
     padding-bottom: 2vh;
 }
-
 .circle {
     padding: 13px 20px;
     border-radius: 50%;
@@ -312,29 +273,24 @@ p {
     max-height: 50px;
     z-index: 2;
 }
-
 .how-it-works.row .col-2 {
     align-self: stretch;
 }
-
 .how-it-works.row .col-2::after {
     content: "";
     position: absolute;
     border-left: 3px solid #1DB954;
     z-index: 1;
 }
-
 .how-it-works.row .col-2.bottom::after {
     height: 50%;
     left: 50%;
     top: 50%;
 }
-
 .how-it-works.row .col-2.full::after {
     height: 100%;
     left: calc(50% - 3px);
 }
-
 .how-it-works.row .col-2.top::after {
     height: 50%;
     left: 50%;
@@ -346,41 +302,34 @@ p {
     padding: 0;
     height: 40px;
 }
-
 .timeline hr {
     border-top: 3px solid #1DB954;
     margin: 0%;
     top: 17px;
     position: relative;
 }
-
 .timeline .col-2 {
     display: flex;
     overflow: hidden;
 }
-
 .timeline .corner {
     border: 3px solid #1DB954;
     width: 100%;
     position: relative;
     border-radius: 15px;
 }
-
 .timeline .top-right {
     left: 50%;
     top: -50%;
 }
-
 .timeline .left-bottom {
     left: -50%;
     top: calc(50% - 3px);
 }
-
 .timeline .top-left {
     left: -50%;
     top: -50%;
 }
-
 .timeline .right-bottom {
     left: 50%;
     top: calc(50% - 3px);
@@ -396,22 +345,18 @@ p {
     background: #0b0b0b;
 
 }
-
 .carousel-inner {
     width: 50%;
     margin: auto;
 }
-
 .tech-stack-list {
     width: 50%;
     margin: auto;
 }
-
 .list-group .active {
     background: #181818;
     border-width: 0px;
 }
-
 .list-group-item {
     border-width: 2px;
 }
@@ -432,14 +377,12 @@ p {
 
 
 }
-
 .feedback {
     color: white;
     padding-top: 1vh;
     text-align: center;
     font-size: 40px;
 }
-
 .wanna {
     text-align: center;
     font-size: 25px;
@@ -447,7 +390,6 @@ p {
     padding-top: 0.7vh;
     font-family: monospace;
 }
-
 input[type=text],
 input[type=email] {
     border: none;
@@ -459,7 +401,6 @@ input[type=email] {
     color: #ebebeb;
     background: none;
 }
-
 .Submit {
     background-color: #1DB954;
     padding: 1% 3%;
@@ -470,28 +411,23 @@ input[type=email] {
     width: 60%;
 
 }
-
 .icon-row {
     padding-top: 8vh;
     padding-bottom: 5vh;
 }
-
 .contact-icon {
     color: white;
     text-align: center;
     font-size: 40px;
 
 }
-
 .contact-text {
     text-align: center;
 }
-
 .contact-text a {
     color: #6b7272;
     font-size: 20px;
 }
-
 .contact-text a:hover {
     text-decoration: none;
     color: #1DB954;
